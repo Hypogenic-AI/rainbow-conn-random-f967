@@ -1,0 +1,9 @@
+PDF: papers/1307.7747_heckel_riordan_threshold_rainbow_random.pdf
+Total pages: 16
+Pages per chunk: 4
+
+Chunks:
+  1307.7747_heckel_riordan_threshold_rainbow_random_chunk_001.pdf: pages 1-4
+  1307.7747_heckel_riordan_threshold_rainbow_random_chunk_002.pdf: pages 5-8
+  1307.7747_heckel_riordan_threshold_rainbow_random_chunk_003.pdf: pages 9-12
+  1307.7747_heckel_riordan_threshold_rainbow_random_chunk_004.pdf: pages 13-16

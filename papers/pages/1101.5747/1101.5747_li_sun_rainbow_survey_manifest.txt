@@ -1,0 +1,12 @@
+PDF: papers/1101.5747_li_sun_rainbow_survey.pdf
+Total pages: 34
+Pages per chunk: 5
+
+Chunks:
+  1101.5747_li_sun_rainbow_survey_chunk_001.pdf: pages 1-5
+  1101.5747_li_sun_rainbow_survey_chunk_002.pdf: pages 6-10
+  1101.5747_li_sun_rainbow_survey_chunk_003.pdf: pages 11-15
+  1101.5747_li_sun_rainbow_survey_chunk_004.pdf: pages 16-20
+  1101.5747_li_sun_rainbow_survey_chunk_005.pdf: pages 21-25
+  1101.5747_li_sun_rainbow_survey_chunk_006.pdf: pages 26-30
+  1101.5747_li_sun_rainbow_survey_chunk_007.pdf: pages 31-34

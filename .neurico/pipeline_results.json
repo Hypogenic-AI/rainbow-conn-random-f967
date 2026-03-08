@@ -1,0 +1,18 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {
+        "literature_review": "/workspaces/rainbow-conn-random-f967/literature_review.md",
+        "papers_dir": "/workspaces/rainbow-conn-random-f967/papers",
+        "code_dir": "/workspaces/rainbow-conn-random-f967/code"
+      },
+      "log_file": "/workspaces/rainbow-conn-random-f967/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/rainbow-conn-random-f967/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 802.0119562149048
+    }
+  },
+  "work_dir": "/workspaces/rainbow-conn-random-f967"
+}
